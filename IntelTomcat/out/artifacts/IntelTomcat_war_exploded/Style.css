@@ -1,0 +1,32 @@
+H1 {
+    font-size: 120%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+}
+
+
+ body{
+     background-image: url("https://dwstroy.ru/lessons/les3373/demo//img/bg.png");
+
+}
+
+
+.container {
+    width: 450px;
+    height: 500px;
+    background-color: #182134;
+    margin: 250px auto 0 auto;
+    text-align: center;
+
+}
+
+
+input[type="text"], input[ type="password"]  {
+    width: 300px;
+    height: 60px;
+    margin-bottom: 20px;
+    border: 6px;
+    border-radius: 6px;
+
+}
+
